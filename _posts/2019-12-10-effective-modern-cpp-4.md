@@ -1,8 +1,8 @@
 ---
-Layout: post
+layout: post
 title: 4. 연역 형식 파악
 subtitle: 
-Tags: [cpp, modern-cpp]
+tags: [cpp, modern-cpp]
 comments: true
 ---
 

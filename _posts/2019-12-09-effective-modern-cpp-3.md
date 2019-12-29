@@ -2,7 +2,7 @@
 layout: post
 title: 3. C++ decltype 연역 규칙
 subtitle: 
-Tags: [cpp, modern-cpp, decltype]
+tags: [cpp, modern-cpp, decltype]
 comments: true
 ---
 

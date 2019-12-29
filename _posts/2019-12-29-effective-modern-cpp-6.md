@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 6. auto가 아니라 명시적 형식 초기화를 사용해야 할 때
-Subtitle: 
-Tags: [cpp, modern-cpp, auto]
+subtitle: 
+tags: [cpp, modern-cpp, auto]
 comments: true
 ---
 

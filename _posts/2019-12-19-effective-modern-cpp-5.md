@@ -1,8 +1,8 @@
 ---
-Layout: post
-Title: 5. 명시적 형식 선언보다는 auto를 선호하라
-Tags: [cpp, modern-cpp, auto]
-comments: tru
+layout: post
+title: 5. 명시적 형식 선언보다는 auto를 선호하라
+tags: [cpp, modern-cpp, auto]
+comments: true
 ---
 
 auto를 사용하면 타자의 양이 줄어들고 정확성 문제와 성능 문제를 방지할 수 있다. auto가 의도하지 않은 형식을 연역할 수 있지만 auto를 포기하고 형식을 명시적으로 지정하는 것은 최대한 피하는 것이 좋다.

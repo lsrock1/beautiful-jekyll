@@ -1,7 +1,7 @@
 ---
-Layout: post
+layout: post
 title: 1. C++ 템플릿 연역규칙
-Tags: [cpp, modern-cpp, template]
+tags: [cpp, modern-cpp, template]
 comments: true
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 2. C++ auto 연역규칙
-Subtitle: 
-Tags: [cpp, modern-cpp, auto]
+subtitle: 
+tags: [cpp, modern-cpp, auto]
 comments: true
 ---
 
